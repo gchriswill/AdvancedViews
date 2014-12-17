@@ -9,7 +9,6 @@ public class CarProfile {
 
     private HashMap <String, String> mCoreObject;
 
-
     public CarProfile(String make,
                     String model,
                     String year,

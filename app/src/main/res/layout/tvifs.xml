@@ -4,7 +4,28 @@
     style="?android:attr/spinnerItemStyle"
     android:layout_width="match_parent"
     android:textAlignment="center"
+    android:fontFamily="Roboto Regular"
+    android:text="hello"
+    android:textSize="24dp"
     android:id="@+id/CustomTVIFS"
     android:layout_height="50dp"
     android:ellipsize="marquee"
-    android:singleLine="true" />
+    android:singleLine="true"
+    android:background="@color/DarkPrimaryColor"
+    android:paddingStart="@dimen/ListTextPaddingLeft"/>
+
+    <!--Two-line list-->
+
+    <!--Text only-->
+
+    <!--Primary text font: Roboto Regular 16sp-->
+    <!--Secondary text font: Roboto Regular 14sp-->
+    <!--Tile height: 72dp-->
+    <!--Text padding, left: 16dp-->
+    <!--Text padding, top and bottom: 20dp-->
+
+    <!--Bottom padding is measured from the baseline.-->
+
+    <!--Add 8dp padding at the top and bottom of a list.
+    One exception is at the top of a list with a subheader,
+    because subheaders contain their own padding.-->

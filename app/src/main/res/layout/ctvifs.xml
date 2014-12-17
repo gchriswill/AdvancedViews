@@ -4,8 +4,9 @@
     style="?android:attr/spinnerDropDownItemStyle"
     android:layout_width="match_parent"
     android:id="@+id/CustomCTVIFS"
-    android:layout_gravity="bottom"
+    android:background="@color/DarkPrimaryColor"
     android:layout_height="50dp"
+    android:paddingLeft="32dp"
     android:ellipsize="marquee"
     android:singleLine="true" />
 

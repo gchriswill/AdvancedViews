@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">AdvancedViews</string>
+    <string name="app_name">Vehicle Images </string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <string name="list_primary_text_font_family">Roboto</string>
+    <string name="list_primary_text_wight">Regular</string>
 
 </resources>

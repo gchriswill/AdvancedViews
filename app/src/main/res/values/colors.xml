@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="PrimaryColor" type="color">#263238</item>
+    <item name="DarkPrimaryColor" type="color">#0288D1</item>
+    <item name="TextColor" type="color">#E1F5FE</item>
+    <item name="Background" type="color">#01579B</item>
+    <item name="listTileBackground" type="color">#cecece</item>
+    <item name="ActionBarTextAndBackgroundColor" type="color">#263238</item>
+    <item name="Graysh" type="color">#cecece</item>
+
+</resources>

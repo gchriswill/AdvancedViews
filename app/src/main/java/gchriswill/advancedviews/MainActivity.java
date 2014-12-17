@@ -28,8 +28,7 @@ public class MainActivity extends Activity implements AdapterView.OnItemSelected
         spinner = (Spinner) findViewById(R.id.SpinnerForItems);
         spinner.setOnItemSelectedListener(this);
 
-        mCarObjects.add(new CarProfile("Smart ", "eDrive", "'14", R.drawable.smartcar,0 ));
-        mCarObjects.add(new CarProfile("Honda", "Civic", "'12",R.drawable.civic,1 ));
+        mCarObjects.add(new CarProfile("Smart ", "forTwo", "'14", R.drawable.smartcar,0 ));
         mCarObjects.add(new CarProfile("Toyota", "Corolla", "'11",R.drawable.corolla,2 ));
         mCarObjects.add(new CarProfile("Ford", "Focus ST", "'13",R.drawable.focus,3 ));
         mCarObjects.add(new CarProfile("Chevrolet", "Volt", "'13",R.drawable.volt,4 ));

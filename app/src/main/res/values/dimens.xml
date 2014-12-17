@@ -2,4 +2,33 @@
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+
+    <dimen name="TextPaddingTopAndBottom">20dp</dimen>
+    <dimen name="ListSecondaryTextSize">14sp</dimen><!--OK-->
+    <dimen name="ListPrimaryTextSize">16sp</dimen><!--OK-->
+    <dimen name="ListTextPaddingLeft">16dp</dimen><!--OK-->
+    <dimen name="ListTopAndBottom">8dp</dimen><!--OK-->
+    <dimen name="ListTileHeight">72dp</dimen>
+    <dimen name="ButtonSpecialSize">36dp</dimen>
+
+    <!--Two-line list from Google.com/design-->
+
+    <!--Text only-->
+
+    <!--Primary text font: Roboto Regular 16sp-->
+    <!--Secondary text font: Roboto Regular 14sp-->
+    <!--Tile height: 72dp-->
+    <!--Text padding, left: 16dp-->
+    <!--Text padding, top and bottom: 20dp-->
+
+    <!--Bottom padding is measured from the baseline.-->
+
+    <!--Add 8dp padding at the top and bottom of a list.
+    One exception is at the top of a list with a subheader,
+    because subheaders contain their own padding.
+
+    ** @gchriswill -->
+
 </resources>
